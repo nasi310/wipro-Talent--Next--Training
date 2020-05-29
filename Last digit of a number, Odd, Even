@@ -1,0 +1,28 @@
+//last digit of a number//
+class lastDigit{
+      public static void main(string[]args) {
+              int num;
+              return num % 10;
+      }
+}
+
+//Even numbers//
+class evenNumbers{
+      public static void main(string[]args) {
+              int num;
+              if( num % 2 == 0) {
+                   system.out.println("Number is even");
+              }
+      }
+}
+
+
+//Odd numbers//
+class oddNumbers{
+      public static void main(string[]args) {
+               int num;
+               if( num % 2 != 0 ) {
+                     system.out.println("Number is odd");
+               }
+      }
+}     
